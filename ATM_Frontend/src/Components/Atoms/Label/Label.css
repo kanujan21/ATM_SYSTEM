@@ -1,0 +1,51 @@
+
+.lab{
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    width: 10vw;
+    max-width: 40vw;
+    color: aliceblue;
+} 
+.lab1{
+    font-size: 18px;
+    width: 150px;         
+    text-align: right;      
+    color: #333;
+    font-weight: bold;
+} 
+.lab2{
+    font-size: 18px;
+    text-align: center;
+    padding: 2px;
+    font-weight: bold;
+ 
+}
+.lab3{
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    width: 10vw;
+    max-width: 40vw;
+   
+}
+.lab4{
+    font-size: 18px;
+    text-align: center;
+    padding: 2px;
+    margin-right: 220px;
+    font-weight: bold;
+    
+}
+
+.lab5{
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    width: 10vw;
+    max-width: 40vw;
+    color: rgb(0, 0, 0);
+} 

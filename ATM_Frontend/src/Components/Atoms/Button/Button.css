@@ -1,0 +1,36 @@
+.btn{
+    background-color: #111827;
+    color: rgb(255, 255, 255);
+    width: 300px;
+    font-size: 18px;
+    border: none;
+    
+    
+}
+.btn:hover{
+  background: #1f2937;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+}
+.btn1{
+    background-color: rgb(9, 9, 9);
+    color: rgb(255, 255, 255);
+    width: 120px;
+    font-size: 16px;
+}
+.btn1:hover{
+  background: rgba(71, 71, 73, 0.763);
+  box-shadow: 0 4px 15px rgba(32, 31, 31, 0.3);
+}
+
+.btn2{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 150px;
+    font-size: 18px;
+}
+.btn2:hover{
+  background: rgba(58, 60, 60, 0.763);
+  color: white;
+  box-shadow: 0 4px 15px rgba(239, 236, 236, 0.596);
+}

@@ -1,0 +1,47 @@
+.Deposit-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+   
+}
+.Deposit-container{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(119, 119, 119, 0.34);
+    gap: .3rem;
+    width: 400px;
+    height: 500px;
+    border-radius: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+.Deposit-container:hover{
+    box-shadow: 0 0 1rem #fff;
+}
+.deposit-label-input{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(253, 253, 253, 0.477);
+    gap: .7rem;
+    width: 360px;
+    height: 380px;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.deposit-label{
+  display: flex;
+  align-items: center;
+  width: 340px;
+  gap: 2rem;
+}
+.deposit-lab{
+ 
+
+}
+
+

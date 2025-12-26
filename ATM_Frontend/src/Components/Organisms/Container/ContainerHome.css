@@ -1,0 +1,41 @@
+.home-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+   
+}
+.home-card{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(191, 181, 181, 0.301);
+    
+    gap: 1rem;
+    width: 400px;
+    height: 450px;
+    border-radius: 40px;
+    align-items: center;
+    justify-content: center;
+}
+.home-card:hover{
+    box-shadow: 0 0 2rem #fff;
+}
+.logout-section{
+    margin-left: 250px;
+}
+.button-label-content{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(253, 253, 253, 0.644);
+    gap: 1rem;
+    width: 350px;
+    height: 300px;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.label-section{
+    margin-bottom: 10px;
+}
